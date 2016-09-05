@@ -1,7 +1,9 @@
 first built
 second buit
-<<<<<<< HEAD
+
 third buit - nune
-=======
+
 third built Bas
->>>>>>> refs/remotes/origin/master
+
+third built Bas
+forth built Bas
